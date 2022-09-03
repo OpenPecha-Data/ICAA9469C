@@ -1,0 +1,184 @@
+id: 6a720105023841dd8ce077d131f7428e
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  8590b5ce66864317b322c35007cebfe0:
+    span:
+      start: 0
+      end: 594
+    imgnum: 1
+    reference: I1PD1082990001.tif
+  6d4870ae40024643b71d16afea2e989d:
+    span:
+      start: 595
+      end: 1215
+    imgnum: 4
+    reference: I1PD1082990004.jpg
+  b4c36914165844d9b37434cbfbf0677b:
+    span:
+      start: 1216
+      end: 1877
+    imgnum: 5
+    reference: I1PD1082990005.jpg
+  d58483fd49044adcba31c98a4730d1ba:
+    span:
+      start: 1878
+      end: 2603
+    imgnum: 6
+    reference: I1PD1082990006.jpg
+  f4bc7664250a4397a70e5179925c5b84:
+    span:
+      start: 2604
+      end: 3277
+    imgnum: 7
+    reference: I1PD1082990007.jpg
+  e5d06e9e602f4fbbbc5323e24ac0c1bb:
+    span:
+      start: 3278
+      end: 3961
+    imgnum: 8
+    reference: I1PD1082990008.jpg
+  b3904151fb1e4d6d93039617445938e1:
+    span:
+      start: 3962
+      end: 4644
+    imgnum: 9
+    reference: I1PD1082990009.jpg
+  bcf478b454664644a27d72cbc3ea8d13:
+    span:
+      start: 4645
+      end: 5308
+    imgnum: 10
+    reference: I1PD1082990010.jpg
+  c86e75a321b14db3aa2ecdafad8df595:
+    span:
+      start: 5309
+      end: 5934
+    imgnum: 11
+    reference: I1PD1082990011.jpg
+  8f7ef6917ef54b89819a4c6403b2dd6e:
+    span:
+      start: 5935
+      end: 6577
+    imgnum: 12
+    reference: I1PD1082990012.jpg
+  73522617a9684bc0b767eff180f8bc1f:
+    span:
+      start: 6578
+      end: 7220
+    imgnum: 13
+    reference: I1PD1082990013.jpg
+  46dceb00c408457cb0783f7d4c6a6471:
+    span:
+      start: 7221
+      end: 7904
+    imgnum: 14
+    reference: I1PD1082990014.jpg
+  879351fb2dca44bc9aa68a9e268256c3:
+    span:
+      start: 7905
+      end: 8570
+    imgnum: 15
+    reference: I1PD1082990015.jpg
+  a783c99c696e4dc6885123729ceeca4e:
+    span:
+      start: 8571
+      end: 9232
+    imgnum: 16
+    reference: I1PD1082990016.jpg
+  a2598f0600bc437aa857f630bf04442c:
+    span:
+      start: 9233
+      end: 9903
+    imgnum: 17
+    reference: I1PD1082990017.jpg
+  2b8051cdfdee4d95919fb318565e9a21:
+    span:
+      start: 9904
+      end: 10568
+    imgnum: 18
+    reference: I1PD1082990018.jpg
+  e04903e9289d40b3b43e698ffc59caa6:
+    span:
+      start: 10569
+      end: 11257
+    imgnum: 19
+    reference: I1PD1082990019.jpg
+  042de96be39a4724b830fc4fb3ebd4cc:
+    span:
+      start: 11258
+      end: 12045
+    imgnum: 20
+    reference: I1PD1082990020.jpg
+  23665a6e9e764448a31d9647a51507d3:
+    span:
+      start: 12046
+      end: 12822
+    imgnum: 21
+    reference: I1PD1082990021.jpg
+  8265bcefbf5a4ff1ae8407429b550fe9:
+    span:
+      start: 12823
+      end: 13569
+    imgnum: 22
+    reference: I1PD1082990022.jpg
+  95bfd4d122684e669059509445198b1e:
+    span:
+      start: 13570
+      end: 14267
+    imgnum: 23
+    reference: I1PD1082990023.jpg
+  8aeabd329e7c47d98ab09133370881f4:
+    span:
+      start: 14268
+      end: 14987
+    imgnum: 24
+    reference: I1PD1082990024.jpg
+  6bd407ab82874b438531b93b8975169e:
+    span:
+      start: 14988
+      end: 15655
+    imgnum: 25
+    reference: I1PD1082990025.jpg
+  e4e90c54192f437d8a62b07d5a2f17e7:
+    span:
+      start: 15656
+      end: 16361
+    imgnum: 26
+    reference: I1PD1082990026.jpg
+  108fa03e3452484c81e2d2e565655667:
+    span:
+      start: 16362
+      end: 17090
+    imgnum: 27
+    reference: I1PD1082990027.jpg
+  4fd88527fb6940738131185e0494df0a:
+    span:
+      start: 17091
+      end: 17824
+    imgnum: 28
+    reference: I1PD1082990028.jpg
+  22f710b83ce0409ba78a56bca34d19fa:
+    span:
+      start: 17825
+      end: 18506
+    imgnum: 29
+    reference: I1PD1082990029.jpg
+  10c2f8c924c046c18cc53fc96d05423f:
+    span:
+      start: 18507
+      end: 19240
+    imgnum: 30
+    reference: I1PD1082990030.jpg
+  d25999b1abfa409c8ff505618a0be4eb:
+    span:
+      start: 19241
+      end: 19998
+    imgnum: 31
+    reference: I1PD1082990031.jpg
+  0b4e0177578a4c1aab1a92b6928138d5:
+    span:
+      start: 19999
+      end: 20715
+    imgnum: 32
+    reference: I1PD1082990032.jpg
